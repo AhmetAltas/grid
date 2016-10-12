@@ -6,7 +6,10 @@ body {
 
 .frame{
 	background-color: rgba(0,128,0,0.4);
-	
+	position: absolute;
+	margin-left: 600px;
+	margin-right: 720px;
+
 	/* put css-rules in this ccs-block here below */
 	
 }
@@ -14,22 +17,75 @@ body {
 h1{
 	background-color: rgba(0,32,0,0.4);
 	line-height: 40px;
-	
+	margin-top: 20px;
+	margin-left: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 15px;
+	padding-left: 20px;
+	margin-right: 10px;
+
+
 	/* put css-rules in this ccs-block here below */
 	
 }
 
-h2 {
-	line-height: 30px;
-	
-	/* put css-rules in this ccs-block here below */
-	
-}
+
 
 p{
 	background-color: rgba(256,256,0,0.4);
 	line-height: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
 	
 	/* put css-rules in this ccs-block here below */
 
+}
+p.een {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+p.twee {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+p.drie {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+
+}
+
+h2
+{
+    line-height: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	border: 4px purple solid;
+	border-right: -10px;
+	padding-top: 10px;
+	border-width: 5px;
+	width: 100% -50px;
+	padding-left: 20px;
+
+	
+	
+
+}
+
+.vier {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+
+}
+
+.vijf {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
